@@ -11,12 +11,12 @@ single_rarefaction.py -i otu_table_mc2_w_tax.biom -o otu_table_mc2_w_tax_even519
 biom summarize-table -i otu_table_mc2_w_tax_even5196.biom -o summary_otu_table_mc2_w_tax_even5196.txt
 head summary_otu_table_mc2_w_tax_even5196.txt
 ## 2.3 Calculating within-sample (alpha) diversity
-mkdir WS_aDiversity_even5196
+mkdir -p WS_aDiversity_even5196
 alpha_diversity.py -i otu_table_mc2_w_tax_even5196.biom -m observed_species,PD_whole_tree -o WS_aDiversity_even5196/WS_aDiversity_even5196.txt -t rep_set.tre
 head WS_aDiversity_even5196/WS_aDiversity_even5196.txt
 alpha_diversity.py -s
 ## 2.4 Visualizing within-sample diversity
-summarize_taxa_through_plots.py -o WS_aDiversity_even5196/taxa_summary5196/ -i otu_table_mc2_w_tax_even5196.biom  
+summarize_taxa_through_plots.py -o WS_aDiversity_even5196/taxa_summary5196/ -i otu_table_mc2_w_tax_even5196.biom -f
 
 # Print operating system characteristics
 uname -a
