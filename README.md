@@ -1,7 +1,7 @@
 ----------
 
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2017-02-26
+Last Update: 2017-05-29
 
 ----------
 
@@ -97,7 +97,7 @@ edamame-course/Amplicon_Analysis downloaded on 2016-12-13 using:
 ## Tools
 2016-12-12
 
-### Anaconda
+### Install Anaconda
 Anaconda 4.2.0 For Linux | Python 2.7 version | 64-BIT INSTALLER (446M) was downloaded from [Download for Linux] tab at <https://www.continuum.io/downloads> and installed on 2016-12-12 using:  
 
 	wget https://repo.continuum.io/archive/Anaconda2-4.2.0-Linux-x86_64.sh
@@ -109,7 +109,7 @@ At the end of `~/.bashrc` file:
 	# added by Anaconda2 4.2.0 installer
 	export PATH="/home/haruo/anaconda2/bin:$PATH"
 
-### QIIME
+### Install QIIME
 [QIIME Installation Guide — Homepage](http://qiime.org/install/install.html)
 
 Installed QIIME on 2016-12-12 using:
