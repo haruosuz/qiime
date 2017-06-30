@@ -1,7 +1,7 @@
 ----------
 
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2017-05-29
+Last Update: 2017-06-30
 
 ----------
 
@@ -139,6 +139,14 @@ Installed QIIME on 2016-12-12 using:
 - []()
 
 ### Galaxy
+
+https://galaxyproject.org/galaxy-updates/2017-06/#qiime-and-mothur
+Qiime and mothur
+
+https://galaxyproject.github.io/training-material//topics/metagenomics/tutorials/mothur-miseq-sop/tutorial.html
+Galaxy Training!
+16S Microbial Analysis with Mothur
+
 - [QIIME Contribution Fest - 9th & 10th January 2017 · Issue #1078 · galaxyproject/tools-iuc](https://github.com/galaxyproject/tools-iuc/issues/1078)
 - [QIIME 1.9.1 Galaxy Wrapper - Galaxy Tool Shed / (sandbox for testing)](https://testtoolshed.g2.bx.psu.edu/repository?repository_id=0167fe8b968eaac0&changeset_revision=c1bd0c560018)
 - Jun 26 [QIIME 1.9.1 Galaxy Wrapper](https://github.com/galaxyproject/tools-iuc/tree/qiime/tools/qiime)
