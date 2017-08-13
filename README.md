@@ -124,6 +124,8 @@ Installed QIIME on 2016-12-12 using:
 ----------
 
 ## References
+
+### QIIME
 - http://qiime.org
 - https://github.com/qiime
 - [Knight Lab | QIIME](https://knightlab.ucsd.edu/wordpress/?p=198)
@@ -132,11 +134,11 @@ Installed QIIME on 2016-12-12 using:
 - Jul 15, 2016 [QIIME 2 Self documenting, Extensible, and Reproducible Microbiome Analysis in Python 3 | SciPy 201 - YouTube](https://www.youtube.com/watch?v=tLtGg21Yu9Q)
 - 2016/01/12 [mothur and QIIME](http://blog.mothur.org/2016/01/12/mothur-and-qiime/)
 - 2015/09/ [[PDF]Workflow from sample to analyzed data – uses Qiime for analysis](http://www.science.smith.edu/cmbs/wp-content/uploads/sites/36/2015/09/Tutorial-from-sample-to-analyzed-data-using-Qiime-for-analysis.pdf)
+- 2014 [Analyzing Metagenomic Data with QIIME](https://ngs.csr.uky.edu/sites/default/files/Class_9_QIIME.pdf)
 - 2013+ [Learning QIIME - Werner Lab](http://www.wernerlab.org/teaching/qiime)
 - 2013+ [EDAMAME : Intro to QIIME](http://www.edamamecourse.org/docs/intro_qiime_tutorial.html)
 - 2011-2013, [Analyzing metagenomes with QIIME — PICRUSt 1.1.0 documentation](https://picrust.github.io/picrust/tutorials/qiime_tutorial.html)
 - 2011+ [LEfSe · An Introduction to QIIME 1.9.1](https://twbattaglia.gitbooks.io/introduction-to-qiime/content/lefse.html)
-- []()
 
 ### Galaxy
 
@@ -173,6 +175,7 @@ Galaxy Training!
 - 2010/03/02 [次世代シーケンサーを用いた菌叢解析 (16S rRNA 遺伝子 PCR サンプルの解析) - 製品評価技術基盤機構](http://www.nite.go.jp/data/000081956.pdf)
 - [次世代シーケンス・アンプリコンデータ解析(帰属分類群の推定) | RDPおよび独自データベースを利用した解析](https://www.tecsrg.co.jp/tecsrg/ngs-qiime-analysis.html)
 - [Qiime - Draft of Pediatric Surgery](https://sites.google.com/site/noteofpaediatricsurgery/in-silico/qiime)
+- 2017-03-13 [16S rRNA遺伝子解析の限界と予測メタゲノム解析 - Piphillinの導入 - Note of Pediatric Surgery](http://pediatricsurgery.hatenadiary.jp/entry/2017/03/13/152234)
 
 ### [MetaSUB](https://github.com/haruosuz/metasub)
 - [Bioinformatics Analysis – MetaSUB](http://metasub.org/methods/bioinformatics-analysis/)
