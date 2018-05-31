@@ -1,7 +1,5 @@
-----------
-
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2017-06-30
+Last Update: 2018-01-13
 
 ----------
 
@@ -129,7 +127,22 @@ Installed QIIME on 2016-12-12 using:
 - http://qiime.org
 - https://github.com/qiime
 - [Knight Lab | QIIME](https://knightlab.ucsd.edu/wordpress/?p=198)
-- [Install - Metagenomics](http://www.metagenomics.wiki/tools/qiime/install)
+- [QIIME - Metagenomics](http://www.metagenomics.wiki/tools/qiime)
+  - [Install QIIME - Metagenomics](http://www.metagenomics.wiki/tools/qiime/install)
+
+https://www.ncbi.nlm.nih.gov/pubmed/29688343
+FEMS Microbiol Lett. 2018 May 1;365(10). doi: 10.1093/femsle/fny104.
+A town on fire! Integrating 16S rRNA gene amplicon analyses into an undergraduate microbiology lecture class.
+Tobin TC1, Shade A2.
+
+https://forum.qiime2.org/t/tutorial-integrating-qiime2-and-r-for-data-visualization-and-analysis-using-qiime2r/4121
+Tutorial: Integrating QIIME2 and R for data visualization and analysis using qiime2R - Community Contributions / Tutorials - QIIME 2 Forum
+
+https://www.ncbi.nlm.nih.gov/pubmed/27924593
+Methods Mol Biol. 2017;1537:153-163.
+Analysis of 16S rRNA Gene Amplicon Sequences Using the QIIME Software Package.
+Lawley B1, Tannock GW2.
+
 - Apr 28, 2016 [alexcritschristoph/Qiime16sTutorial: A tutorial on up-to-date methods of 16S analysis with QIIME](https://github.com/alexcritschristoph/Qiime16sTutorial)
 - Jul 15, 2016 [QIIME 2 Self documenting, Extensible, and Reproducible Microbiome Analysis in Python 3 | SciPy 201 - YouTube](https://www.youtube.com/watch?v=tLtGg21Yu9Q)
 - 2016/01/12 [mothur and QIIME](http://blog.mothur.org/2016/01/12/mothur-and-qiime/)
@@ -145,10 +158,6 @@ Installed QIIME on 2016-12-12 using:
 https://galaxyproject.org/galaxy-updates/2017-06/#qiime-and-mothur
 Qiime and mothur
 
-https://galaxyproject.github.io/training-material//topics/metagenomics/tutorials/mothur-miseq-sop/tutorial.html
-Galaxy Training!
-16S Microbial Analysis with Mothur
-
 - [QIIME Contribution Fest - 9th & 10th January 2017 · Issue #1078 · galaxyproject/tools-iuc](https://github.com/galaxyproject/tools-iuc/issues/1078)
 - [QIIME 1.9.1 Galaxy Wrapper - Galaxy Tool Shed / (sandbox for testing)](https://testtoolshed.g2.bx.psu.edu/repository?repository_id=0167fe8b968eaac0&changeset_revision=c1bd0c560018)
 - Jun 26 [QIIME 1.9.1 Galaxy Wrapper](https://github.com/galaxyproject/tools-iuc/tree/qiime/tools/qiime)
@@ -163,6 +172,16 @@ Galaxy Training!
 
 ### Japanese
 日本語資料
+
+http://staffblog.amelieff.jp/entry/2017/12/01/154644
+QIIME2のはなし。 - アメリエフのブログ
+
+http://pediatricsurgery.hatenadiary.jp/entry/2017/11/19/200241
+mothur開発者によるmothurとQIIMEの比較 - Note of Pediatric Surgery
+
+http://bioinformatic-r-and-me.blogspot.com/2017/10/qiime.html
+バイオインフォマティクスとRとわたし: QIIMEインストールのやり方
+
 - 2016/11/26 [Qiime v1.9.0](http://crusade1096.web.fc2.com/qiime.html)
 - 2016/04/14 [細菌群集の特徴付けのための効率的な核酸抽出および16S rRNAの遺伝子配列決定](https://www.jove.com/video/53939/16s-rrna?language=Japanese)
 - 2016/03/14 [次世代シークエンサーデータ解析ツール — 東京大学 味埜・佐藤研究室](http://www.mwm.k.u-tokyo.ac.jp:8080/Plone/outcome/OTUMAMi/OTUMAMi_introduction) OTUMAMiを用いた16SrRNAシークエンスデータ解析
@@ -184,4 +203,7 @@ Galaxy Training!
  - [New York Subway Microbiome](https://github.com/haruosuz/metasub#new-york-subway-microbiome) | ENA [PRJNA271013](http://www.ebi.ac.uk/ena/data/view/PRJNA271013)
 
 ----------
+
+http://wiki.pitagora-galaxy.org/wiki/index.php/Workflow_Qiime
+
 
